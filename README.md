@@ -1,1 +1,4 @@
 # SEMANTIC-SEGMENTATION-OF-DRONE-BASED-IMAGES
+
+The segmentation of drone-based images for various purposes, including agriculture, urban planning, and environmental monitoring, is a complex task. This study presents a comparison of four popular deep learning models, namely Unet, PSPnet, LinkNet, and FCN, for semantic segmentation. To evaluate the performance of each model, extensive experiments were conducted on a large dataset of drone-based images using
+the Jaccard index, a standard metric for semantic segmentation tasks. The study also examines how each model overcomes challenges posed by drone-based images, such as varying lighting conditions, detection of small objects, and complicated backgrounds. Additionally, pre-processing techniques, including data augmentation and normalization, were found to significantly improve the performance of all models.
